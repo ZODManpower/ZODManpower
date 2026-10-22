@@ -10,7 +10,7 @@
     <table style="width: 100%; border-collapse: collapse; border: none;">
       <tr>
         <td width="35%" align="center">
-          <img src="https://raw.githubusercontent.com/AshiLara2007/ZOD/main/Images/logo.jpeg" 
+          <img src="https://avatars.githubusercontent.com/u/344102077?v=4" 
                alt="ZOD Manpower Logo" 
                width="160" 
                style="border-radius: 15px; border: 3px solid #D4AF37; background-color: white; padding: 5px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
